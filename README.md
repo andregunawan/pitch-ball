@@ -29,8 +29,4 @@
 
 ###### Get creative with the ways to manipulate the player's avatar! Player's can use alternate forms of input such as a tone generated from a online tone generator or a musical instrument that has direct input into the user's system.
 
----
 
-## Anymore questions?
-
-Contact us in the M/W Class!
